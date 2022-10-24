@@ -1,0 +1,3 @@
+/home/alse/Documents/ordenamiento/CMakeFiles/programa_grx.bin.dir
+/home/alse/Documents/ordenamiento/CMakeFiles/edit_cache.dir
+/home/alse/Documents/ordenamiento/CMakeFiles/rebuild_cache.dir
